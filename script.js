@@ -15,7 +15,8 @@ const quotes = [
     "Mikael Myer",
     "Boo? Whachu lookin at?! - Carlotta",
     "HEY HEy, hEy, hey... guess what? I'm gonna touch you.",
-    "Me when, whe- me when th- the.. me- whe- the me- me when the- Yeah!"
+    "Me when, whe- me when th- the.. me- whe- the me- me when the- Yeah!"0
+    "You're my favorite! - My Girlfriend"
 ];
 
 function getRandomQuote() {
